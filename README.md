@@ -30,3 +30,11 @@ Gammoid via random DAG with source/target sets
 ```python
 python -m experiments.run --matroid gammoid --nodes 150 --p 0.03 --sources 10 --targets 30 --seeds 10
 ```
+
+
+## Results and Logs
+See `results/` for CSVs and `docs/` for literature notes and the constrained-regime improvement log.
+
+## License
+MIT (adjust as needed).
+
